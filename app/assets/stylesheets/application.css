@@ -29,3 +29,26 @@ h1, h2 {
 .details {
   color:rgb(181, 46, 89);
 }
+
+.card {
+  border: none !important;
+}
+
+.button {
+  background-color: #2ba39f !important;
+  color: white !important;
+  border: none !important;
+  padding: 8px 20px !important;
+  border-radius: 5px !important;
+  margin-bottom: 40px;
+  width: fit-content;
+  align-self: center;
+}
+
+.button:hover {
+  background-color: #32d6d1 !important;
+}
+
+.centered {
+  text-align: center;
+}
